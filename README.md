@@ -10,11 +10,11 @@ link:- https://youtu.be/jDFJ-MQADBQ
 
 If you are a person that prefers to read the explanation for the code, please go through this article. Hopefully it will make up for the small errors that I have made here and there in the video.
 
-link:-  https://wael9823.medium.com/reversing...
+link:-  https://wael9823.medium.com/reversing-words-of-a-sentence-in-c-83bb26bf3468
 
 Also, go ahead and fork this repository, open issues or send in some pull requests that utilize better methods to solve this problem.
 
-link:- https://github.com/wael9823/ReversedW...
+link:- https://github.com/wael9823/ReversedWords
 
 Have a great day ahead,
 Wael
