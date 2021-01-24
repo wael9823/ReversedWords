@@ -6,7 +6,7 @@ We first take up an approach that I think is the first idea we get of solving th
 
 If you are someone who opts for a video explanation of the code, do checkout this video.
 
-link:- https://www.youtube.com/embed/jDFJ-MQADBQ
+link:- https://www.youtube.com/watch?v=jDFJ-MQADBQ
 
 [![Watch Video Explanation](https://img.youtube.com/vi/jDFJ-MQADBQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=jDFJ-MQADBQ)
 
