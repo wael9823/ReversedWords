@@ -24,6 +24,6 @@ Wael
 /* Code to read input from text file and write output to another text file */ <br/>
 
 #ifndef CODE_CHECK<br/>
-<&nbsp> freopen("input.txt","r",stdin);<br/>
-<&nbsp> freopen("output.txt","w",stdout);<br/>
+<&nbsp>; freopen("input.txt","r",stdin);<br/>
+<&nbsp>; freopen("output.txt","w",stdout);<br/>
 #endif
