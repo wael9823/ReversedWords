@@ -21,9 +21,9 @@ link:- https://github.com/wael9823/ReversedWords
 Have a great day ahead,
 Wael
 
-/* Code to read input from text file and write output to another text file */
+/* Code to read input from text file and write output to another text file */ <br/>
 
-#ifndef CODE_CHECK
-        freopen("input.txt","r",stdin);
-        freopen("output.txt","w",stdout);
+#ifndef CODE_CHECK<br/>
+<&nbsp> freopen("input.txt","r",stdin);<br/>
+<&nbsp> freopen("output.txt","w",stdout);<br/>
 #endif
