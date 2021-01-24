@@ -1,6 +1,6 @@
 # ReversedWords
 
-In this repository, we will see four different ways of solving the common c++ programming interview question, reverse the words of a given sentence. 
+In this repository, we will see four different ways of solving the common C++ programming interview question, reverse the words of a given sentence. 
 
 We first take up an approach that I think is the first idea we get of solving this problem and improve it as much as we can in two further programs. In the final method, we see an approach that is nothing short of a magic trick according to me.
 
@@ -27,3 +27,4 @@ Wael
 &nbsp; &nbsp; &nbsp; &nbsp;freopen("input.txt","r",stdin);<br/>
 &nbsp; &nbsp; &nbsp; &nbsp;freopen("output.txt","w",stdout);<br/>
 #endif
+
